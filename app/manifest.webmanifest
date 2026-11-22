@@ -1,0 +1,6 @@
+{
+  "name": "HeroQuest Companion", "short_name": "HeroQuest", "lang": "de",
+  "start_url": "./", "scope": "./", "display": "standalone",
+  "theme_color": "#110d0a", "background_color": "#110d0a",
+  "icons": [{ "src": "./apple-touch-icon.png", "sizes": "512x512", "type": "image/png" }]
+}
